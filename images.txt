@@ -10,3 +10,20 @@ hello-world
 ## 其它库
 gdy666/lucky
 minio/minio
+redis
+rabbitmq:3-management
+rabbitmq:latest
+nacos/nacos-server
+jenkins/jenkins
+mysql:5.7.44
+mysql:8.4.2
+postgres
+elasticsearch
+elasticsearch:8.15.0
+elasticsearch:7.17.23
+kibana
+kibana:8.15.0
+kibana:7.17.23
+logstash
+logstash:8.15.0
+logstash:7.17.23
